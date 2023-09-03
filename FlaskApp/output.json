@@ -1,0 +1,772 @@
+{
+    "1": {
+        "Ticker": "SQ",
+        "Summary": "Payments firm formerly known as Square is on the cusp of a new bull market.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9809500575065613,
+        "URL": "https://finance.yahoo.com/news/block-paypal-visa-schwab-one-100100853.html"
+    },
+    "2": {
+        "Ticker": "SQ",
+        "Summary": "Utility said it would be inappropriate to discuss case outside of court.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.998809814453125,
+        "URL": "https://finance.yahoo.com/news/1-us-sues-southern-california-220738764.html"
+    },
+    "3": {
+        "Ticker": "SQ",
+        "Summary": "The global Airport Lounges market is projected to grow at a Compound Annual Growth Rate (Compound) of 6% through 2023.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9958547949790955,
+        "URL": "https://finance.yahoo.com/news/global-airport-lounges-market-analysis-102400128.html"
+    },
+    "4": {
+        "Ticker": "SQ",
+        "Summary": "Reported EPS is $0.39, expectations were $0.35.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9911683797836304,
+        "URL": "https://finance.yahoo.com/news/block-inc-nyse-sq-q2-123904757.html"
+    },
+    "5": {
+        "Ticker": "SQ",
+        "Summary": "SQ is one of the largest crypto stocks in the past three months.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9906859993934631,
+        "URL": "https://finance.yahoo.com/news/5-crypto-stocks-watch-amid-125000374.html"
+    },
+    "6": {
+        "Ticker": "SQ",
+        "Summary": "Arthur Erickson masterpiece designed in 1979 and completed in 1988.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9983843564987183,
+        "URL": "https://finance.yahoo.com/news/arthur-erickson-modern-treasure-eppich-130000016.html"
+    },
+    "7": {
+        "Ticker": "SQ",
+        "Summary": "Global market for green building materials to increase from $184.1 billion in 2023 to $347.7 billion in 2028.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9949123859405518,
+        "URL": "https://finance.yahoo.com/news/green-building-materials-global-markets-094500366.html"
+    },
+    "8": {
+        "Ticker": "SQ",
+        "Summary": "Five biggest startup failures in the world will be covered in this article.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9975383281707764,
+        "URL": "https://finance.yahoo.com/news/15-biggest-startup-failures-world-231810633.html"
+    },
+    "9": {
+        "Ticker": "SQ",
+        "Summary": "Visa, Mastercard to raise interchange fees in October and April. Swipe fees to rise by an average of 10.3% this year",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.7637587189674377,
+        "URL": "https://finance.yahoo.com/news/visa-v-mastercard-ma-eyeing-134700661.html"
+    },
+    "10": {
+        "Ticker": "SQ",
+        "Summary": "All images are copyrighted.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9880996346473694,
+        "URL": "https://www.google.com/search?q%3Dyahoo%2Bfinance%2BSQ%26tbm%3Dnws%26pccc%3D1"
+    },
+    "11": {
+        "Ticker": "SQ",
+        "Summary": "Incentives less generous in Mayfair, St James. Demand for green space outstrips supply in some areas",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9988654851913452,
+        "URL": "https://uk.finance.yahoo.com/news/rent-free-office-incentives-less-060151501.html"
+    },
+    "12": {
+        "Ticker": "COIN",
+        "Summary": "The share price of one of the leading cryptocurrency exchanges surged on Tuesday. However, as of the current moment, the share price stands at $83.8",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9740047454833984,
+        "URL": "https://www.cryptotimes.io/coinbase-stock-price-skyrocketed-15-following-grayscale-ruling/"
+    },
+    "13": {
+        "Ticker": "COIN",
+        "Summary": "Base is a scaling solution for Ethereum. Coinbase built Base in collaboration with the OP Collective",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.6089689135551453,
+        "URL": "https://dailyhodl.com/2023/08/25/new-coinbase-layer-2-project-to-share-revenue-with-its-development-partner-in-pursuit-of-superchain-future/"
+    },
+    "14": {
+        "Ticker": "COIN",
+        "Summary": "All images are copyrighted.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9880996346473694,
+        "URL": "https://www.google.com/search?q%3Dyahoo%2Bfinance%2BCOIN%26tbm%3Dnws%26pccc%3D1"
+    },
+    "15": {
+        "Ticker": "COIN",
+        "Summary": "All photographs subject to copyright.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9676676392555237,
+        "URL": "https://coingape.com/coinbase-ceo-brain-armstrong-shares-10-crypto-start-up-ideas/"
+    },
+    "16": {
+        "Ticker": "COIN",
+        "Summary": "Grayscale’s application to convert its Bitcoin Trust into an ETF was denied. Bitcoin ETF could soon be available on Wall Street",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9982202649116516,
+        "URL": "https://decrypt.co/154152/coinbase-stock-soars-following-grayscale-bitcoin-etf-win-against-sec/"
+    },
+    "17": {
+        "Ticker": "COIN",
+        "Summary": "All photographs subject to copyright.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9676676392555237,
+        "URL": "https://cointelegraph.com/news/coinbase-stock-surges-after-favorable-federal-ruling-for-grayscale"
+    },
+    "18": {
+        "Ticker": "COIN",
+        "Summary": "Largest publicly traded crypto exchange has launched its own network. Coinbase says it has already deployed 100 dapps on the network",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9929861426353455,
+        "URL": "https://www.coindesk.com/tech/2023/08/09/coinbase-officially-launches-base-blockchain-milestone-for-a-public-company/"
+    },
+    "19": {
+        "Ticker": "COIN",
+        "Summary": "A federal appeals court says SEC was wrong to reject Grayscale’s application. Coinbase’s shares are up 13% Tuesday, but Mizuho says it’s ‘ knee-jerk’",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.998333752155304,
+        "URL": "https://www.marketwatch.com/story/coinbases-stock-basks-in-crypto-rally-after-favorable-ruling-for-bitcoin-etf-133f90b3"
+    },
+    "20": {
+        "Ticker": "COIN",
+        "Summary": "Have you tried going to Newsround?",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9915708303451538,
+        "URL": "https://www.barrons.com/articles/coinbase-stock-sec-grayscale-bitcoin-etf-1c252514"
+    },
+    "21": {
+        "Ticker": "COIN",
+        "Summary": "Find the best credit cards, loans, insurance and more in SELECT.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9378337860107422,
+        "URL": "https://www.cnbc.com/2023/08/29/stocks-making-the-biggest-moves-midday-best-buy-big-lots-coinbase-and-more.html"
+    },
+    "22": {
+        "Ticker": "COIN",
+        "Summary": "Coinbase, Marathon Digital, and Bitstamp all reported earnings.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9891596436500549,
+        "URL": "https://investorplace.com/2023/08/3-digital-asset-stocks-that-are-better-bets-than-crypto/"
+    },
+    "23": {
+        "Ticker": "HIVE",
+        "Summary": "The global apiculture market is expected to grow from $11.71 billion in 2022 to $12.83 billion in 2023.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.991230845451355,
+        "URL": "https://finance.yahoo.com/news/apiculture-global-market-report-2023-150200840.html"
+    },
+    "24": {
+        "Ticker": "HIVE",
+        "Summary": "Video shows Joanna Gaines and son Crew harvesting honey.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9776712656021118,
+        "URL": "https://ca.finance.yahoo.com/news/joanna-gaines-son-crew-5-193627989.html"
+    },
+    "25": {
+        "Ticker": "HIVE",
+        "Summary": "Charity is holding a sponsored walk in Scarborough’s South Cliff Gardens.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9903744459152222,
+        "URL": "https://uk.finance.yahoo.com/news/dementia-forward-charity-announce-awareness-100108438.html"
+    },
+    "26": {
+        "Ticker": "HIVE",
+        "Summary": "I am bullish on crypto miner at this price point. Dye & Durham is trading at a discount to its book value",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.99869304895401,
+        "URL": "https://ca.finance.yahoo.com/news/3-top-canadian-value-stocks-191500903.html"
+    },
+    "27": {
+        "Ticker": "HIVE",
+        "Summary": "Three growth stocks to buy on the dip: Puja Tayal.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.7453415989875793,
+        "URL": "https://ca.finance.yahoo.com/news/3-growth-stocks-buy-every-204500493.html"
+    },
+    "28": {
+        "Ticker": "HIVE",
+        "Summary": "Company to sell excess honey in cafeterias, on-site meals. Northwood Office has 14 hives in Brixham Park and Ballantyne",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9953514337539673,
+        "URL": "https://finance.yahoo.com/news/buzzworthy-sustainability-initiative-launches-corporate-121100378.html"
+    },
+    "29": {
+        "Ticker": "HIVE",
+        "Summary": "Nvidia to report first quarterly earnings since May. Miners may also see impact from move into AI",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.6622741222381592,
+        "URL": "https://finance.yahoo.com/news/nvidias-break-earnings-could-huge-171446004.html"
+    },
+    "30": {
+        "Ticker": "HIVE",
+        "Summary": "All images are copyrighted.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9880996346473694,
+        "URL": "https://www.google.com/search?q%3Dyahoo%2Bfinance%2BHIVE%26tbm%3Dnws%26pccc%3D1"
+    },
+    "31": {
+        "Ticker": "HIVE",
+        "Summary": "Stronghold Digital, Hive Digital among crypto stocks to watch in September.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.5268564820289612,
+        "URL": "https://finance.yahoo.com/news/3-stocks-watch-bitcoin-dreads-122100599.html"
+    },
+    "32": {
+        "Ticker": "HIVE",
+        "Summary": "Second-quarter revenue fell short of guidance due to GLP-1 adoption, market factors. Second-quarter operating expenses were reduced by 53% compared to second quarter of 2022",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9993009567260742,
+        "URL": "https://finance.yahoo.com/news/reshape-lifesciences-reports-second-quarter-200500009.html"
+    },
+    "33": {
+        "Ticker": "HIVE",
+        "Summary": "Mining of 834 Bitcoin this quarter represents an increase of 1.6% year-over-year.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.5082107782363892,
+        "URL": "https://finance.yahoo.com/news/hive-digital-announces-quarterly-revenue-050000415.html"
+    },
+    "34": {
+        "Ticker": "MARA",
+        "Summary": "A federal appeals court said the SEC was ‘arbitrary and capricious’. ‘An environment around crypto that we haven’t seen before,’ he says",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9940500855445862,
+        "URL": "https://finance.yahoo.com/news/grayscale-ceo-predicts-a-crypto-environment-we-havent-seen-before-after-legal-win-184421302.html"
+    },
+    "35": {
+        "Ticker": "MARA",
+        "Summary": "Pierre-Ekwah scored twice as Sunderland thrashed Southampton.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9982179999351501,
+        "URL": "https://ca.finance.yahoo.com/news/sunderland-v-southampton-103606077.html"
+    },
+    "36": {
+        "Ticker": "MARA",
+        "Summary": "Job openings fall below 9 million for first time since March 2021. Consumer confidence falls to its lowest level in more than a year",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9994441866874695,
+        "URL": "https://finance.yahoo.com/news/stocks-rally-after-job-openings-fall-to-lowest-since-march-2021-stock-market-news-today-104157432.html"
+    },
+    "37": {
+        "Ticker": "MARA",
+        "Summary": "Q2 revenue of $639.9 million, silver production of 6 million ounces. Net loss in Q2 was $47.4 million or $0.13 per share",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9992528557777405,
+        "URL": "https://finance.yahoo.com/news/pan-american-silver-corp-nasdaq-182320843.html"
+    },
+    "38": {
+        "Ticker": "MARA",
+        "Summary": "Some of the best biotech penny stocks to buy now. Recursion Pharmaceuticals to use AI to accelerate drug discovery platforms",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.999411940574646,
+        "URL": "https://finance.yahoo.com/news/11-best-biotech-penny-stocks-124446644.html"
+    },
+    "39": {
+        "Ticker": "MARA",
+        "Summary": "All images are copyrighted.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9880996346473694,
+        "URL": "https://www.google.com/search?q%3Dyahoo%2Bfinance%2BMARA%26tbm%3Dnws%26pccc%3D1"
+    },
+    "40": {
+        "Ticker": "MARA",
+        "Summary": "Kate Mara and Brett Gelman voice lead characters in new podcast.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.6276887059211731,
+        "URL": "https://finance.yahoo.com/news/kate-mara-brett-gelman-star-140000293.html"
+    },
+    "41": {
+        "Ticker": "MARA",
+        "Summary": "‘Planet of the Bass’ parody has more than 250 million views. Comedian Kyle Gordon created the character as a parody of Eurodance music",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.839654266834259,
+        "URL": "https://ca.finance.yahoo.com/news/why-cant-planet-bass-playful-150041257.html"
+    },
+    "42": {
+        "Ticker": "MARA",
+        "Summary": "Lynne Ramsay in post-production on ‘Polaris’. She’s developing ‘Die, My Love’ for Lawrence",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9903319478034973,
+        "URL": "https://ca.finance.yahoo.com/news/lynne-ramsay-plans-direct-jennifer-211401109.html"
+    },
+    "43": {
+        "Ticker": "MARA",
+        "Summary": "Emma Stone’s new chop is a ‘sleek, effortless style,’ stylist says.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.999858021736145,
+        "URL": "https://ca.finance.yahoo.com/news/emma-stone-chopped-four-inches-232724918.html"
+    },
+    "44": {
+        "Ticker": "MARA",
+        "Summary": "Tull has been a co-owner of the team since 2009. Steelers have won six Super Bowls since 2009",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9975022673606873,
+        "URL": "https://ca.finance.yahoo.com/news/billionaire-thomas-tull-talks-increase-200244470.html"
+    },
+    "45": {
+        "Ticker": "MSTR",
+        "Summary": "MicroStrategy to use some of the funds to buy more Bitcoin. The company reported a net income of $22.2 million in the second quarter",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9964514970779419,
+        "URL": "https://insidebitcoins.com/news/microstrategy-plans-750m-share-offering-and-says-it-will-add-more-bitcoin-to-4-5b-holding"
+    },
+    "46": {
+        "Ticker": "MSTR",
+        "Summary": "Software company has significant exposure to the cryptocurrency. Saylor likened MicroStrategy’s stock to a ‘fast car’ for bitcoin exposure",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.6681649684906006,
+        "URL": "https://finance.yahoo.com/news/michael-saylor-says-bitcoin-etfs-160628193.html"
+    },
+    "47": {
+        "Ticker": "MSTR",
+        "Summary": "Founder and Chairman Michael Saylor says company is all-in on crypto. But Wall Street analysts need more visibility on core business",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9965921640396118,
+        "URL": "https://finance.yahoo.com/news/bear-day-microstrategy-mstr-102000522.html"
+    },
+    "48": {
+        "Ticker": "MSTR",
+        "Summary": "We are aware of the issue and are working to resolve it.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9979088306427002,
+        "URL": "https://finance.yahoo.com/news/bull-day-microstrategy-mstr-080000885.html"
+    },
+    "49": {
+        "Ticker": "MSTR",
+        "Summary": "We are aware of the issue and are working to resolve it.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9979088306427002,
+        "URL": "https://finance.yahoo.com/news/bullish-microstrategy-incorporated-nasdaq-mstr-135005052.html"
+    },
+    "50": {
+        "Ticker": "MSTR",
+        "Summary": "A federal appeals court ruled in Grayscale’s favor. GBTC is higher by 17%, narrowing its discount to net asset value",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9798816442489624,
+        "URL": "https://finance.yahoo.com/news/bitcoin-jumps-5-grayscale-ruling-154910264.html"
+    },
+    "51": {
+        "Ticker": "MSTR",
+        "Summary": "We are aware of the issue and are working to resolve it.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9979088306427002,
+        "URL": "https://finance.yahoo.com/news/strength-seen-microstrategy-mstr-6-081400907.html"
+    },
+    "52": {
+        "Ticker": "MSTR",
+        "Summary": "We are aware of the issue and are working to resolve it.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9979088306427002,
+        "URL": "https://finance.yahoo.com/news/microstrategy-announces-first-quarter-2023-200100353.html"
+    },
+    "53": {
+        "Ticker": "MSTR",
+        "Summary": "We are aware of the issue and are working to resolve it.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9979088306427002,
+        "URL": "https://finance.yahoo.com/news/microstrategy-expands-partnership-microsoft-drive-120000523.html"
+    },
+    "54": {
+        "Ticker": "MSTR",
+        "Summary": "Job openings hit lowest level since March 2021. Consumer confidence falls for first time in two months",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9994778037071228,
+        "URL": "https://finance.yahoo.com/news/stock-market-today-stocks-rise-201041502.html"
+    },
+    "55": {
+        "Ticker": "MSTR",
+        "Summary": "All images are copyrighted.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9880996346473694,
+        "URL": "https://www.google.com/search?q%3Dyahoo%2Bfinance%2BMSTR%26tbm%3Dnws%26pccc%3D1"
+    },
+    "56": {
+        "Ticker": "NVDA",
+        "Summary": "All photographs are copyrighted.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9776006937026978,
+        "URL": "https://www.tipranks.com/news/article/nvidia-nasdaqnvda-this-analyst-expects-this-buzzing-reddit-stock-to-hit-1100"
+    },
+    "57": {
+        "Ticker": "NVDA",
+        "Summary": "Board member and second-largest shareholder divests $25 million. Move follows earlier sale of shares worth $51 million",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.977051317691803,
+        "URL": "https://finbold.com/insider-trading-alert-huge-nvidia-shareholder-sells-25m-of-nvda-stock/"
+    },
+    "58": {
+        "Ticker": "NVDA",
+        "Summary": "All images are copyrighted.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9880996346473694,
+        "URL": "https://www.google.com/search?q%3Dyahoo%2Bfinance%2BNVDA%26tbm%3Dnws%26pccc%3D1"
+    },
+    "59": {
+        "Ticker": "NVDA",
+        "Summary": "Find the best credit cards, loans, insurance and more in SELECT.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9378337860107422,
+        "URL": "https://www.cnbc.com/2023/09/01/forget-about-nvidia-the-q3-big-winner-is-an-old-midwest-phone-company.html"
+    },
+    "60": {
+        "Ticker": "NVDA",
+        "Summary": "Rough Rough cut (no reporter narration)",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9994315505027771,
+        "URL": "https://www.wsj.com/livecoverage/stock-market-today-jobs-report-09-01-2023/card/broadcom-and-nvidia-stocks-fall-j5kwj8jJG0AvktxDSeF4"
+    },
+    "61": {
+        "Ticker": "NVDA",
+        "Summary": "Startup rents specialized servers for developing artificial intelligence. Potential buyers would need to value company at more than 12 times 2023 revenue",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.99497389793396,
+        "URL": "https://www.theinformation.com/articles/nvidia-backed-cloud-provider-hires-morgan-stanley-to-sell-500-million-of-employee-shares"
+    },
+    "62": {
+        "Ticker": "NVDA",
+        "Summary": "You have just performed an action that caused this block.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9988956451416016,
+        "URL": "https://news.bitcoin.com/bitcoin-miner-iris-energy-dives-into-generative-ai-investing-10m-in-nvidia-gpus-amidst-soaring-demand/"
+    },
+    "63": {
+        "Ticker": "NVDA",
+        "Summary": "Have you tried going to Newsround?",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9915708303451538,
+        "URL": "https://www.barrons.com/articles/broadcom-nvidia-ai-chip-stocks-buy-sell-cd819216"
+    },
+    "64": {
+        "Ticker": "NVDA",
+        "Summary": "Nvidia is the best-performing S&P 500 index currently. During its 24-year journey, Nvidia’s stock dropped over 50% 12 times",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9958209991455078,
+        "URL": "https://www.businesstoday.in/visualstories/news/nvidia-shares-at-all-time-high-soared-212000-since-going-public-in-1999-the-stunning-24-year-journey-of-this-multi-bagger-59591-31-08-2023"
+    },
+    "65": {
+        "Ticker": "NVDA",
+        "Summary": "Nvidia has seen its share price skyrocket amid a surge in AI excitement. DGX Cloud has seen its share price soar amid a surge in demand",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9929856657981873,
+        "URL": "https://www.fool.com/investing/2023/08/31/2-stock-split-growth-stocks-to-buy-before-soar-135/"
+    },
+    "66": {
+        "Ticker": "NVDA",
+        "Summary": "I said it was the best quarter that Ive ever seen, and I doubted it.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9210769534111023,
+        "URL": "https://seekingalpha.com/article/4632559-after-a-monster-q2-report-nvidia-shares-are-suddenly-cheap"
+    },
+    "67": {
+        "Ticker": "RIOT",
+        "Summary": "Revenue rose 27%, driven by 27% increase in bitcoin production. miner expects self-mining hash rate capacity to reach 12.5 EH/S in fourth quarter",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9915539622306824,
+        "URL": "https://finance.yahoo.com/news/bitcoin-miner-riot-posts-mixed-212952963.html"
+    },
+    "68": {
+        "Ticker": "RIOT",
+        "Summary": "League of Legends spin-off will return in winter 2024. Fans speculate it’ll be on the same day as the game’s 15th birthday",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9855316877365112,
+        "URL": "https://finance.yahoo.com/news/arcane-may-grand-return-2024-181500443.html"
+    },
+    "69": {
+        "Ticker": "RIOT",
+        "Summary": "Two men were convicted as ‘instigators’ of January 2021 riot. Trump’s false claims that the 2020 election was stolen continue to fuel controversy",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9379792213439941,
+        "URL": "https://uk.finance.yahoo.com/news/far-proud-boys-figureheads-jailed-093037386.html"
+    },
+    "70": {
+        "Ticker": "RIOT",
+        "Summary": "All images are copyrighted.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9880996346473694,
+        "URL": "https://www.google.com/search?q%3Dyahoo%2Bfinance%2BRIOT%26tbm%3Dnws%26pccc%3D1"
+    },
+    "71": {
+        "Ticker": "RIOT",
+        "Summary": "Some of the best crypto stocks to buy at current levels. Bitcoin halving due in 2024 likely to boost demand for Bitcoin",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9949257373809814,
+        "URL": "https://investorplace.com/2023/08/3-crypto-stocks-to-buy-for-100-gains-as-bitcoin-stabilizes/"
+    },
+    "72": {
+        "Ticker": "RIOT",
+        "Summary": "Bitcoin halving due in 2024 is another reason to be bullish. Riot Platforms has corrected from recent highs of $20.6 to current levels",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9977964162826538,
+        "URL": "https://investorplace.com/2023/08/3-stocks-poised-for-a-100-short-squeeze-rally/"
+    },
+    "73": {
+        "Ticker": "RIOT",
+        "Summary": "Nordean and Pezzola were found guilty in May. Both men were found not guilty on seditious conspiracy charges",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9325408935546875,
+        "URL": "https://ca.finance.yahoo.com/amphtml/news/first-rioter-smash-capitol-windows-163704016.html"
+    },
+    "74": {
+        "Ticker": "RIOT",
+        "Summary": "At least 39 people were arrested during clashes. Hundreds of Eritreans seeking asylum converged on Israel’s embassy",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9737849235534668,
+        "URL": "https://ca.finance.yahoo.com/news/more-100-injured-eritrean-refugees-172457025.html"
+    },
+    "75": {
+        "Ticker": "RIOT",
+        "Summary": "Skye, Kinlochshiel win Camanachd, Mowi Cups. Lewis complete 12 straight wins to move top of North Division 2",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9996097683906555,
+        "URL": "https://ca.finance.yahoo.com/news/shinty-wins-skye-kinlochshiel-womens-182814364.html"
+    },
+    "76": {
+        "Ticker": "RIOT",
+        "Summary": "Bitcoin miner Riot Platforms is among top undervalued short squeeze candidates.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.8738493919372559,
+        "URL": "https://investorplace.com/2023/09/7-undervalued-stocks-due-for-a-massive-short-squeeze/"
+    },
+    "77": {
+        "Ticker": "RIOT",
+        "Summary": "Nordean sentenced to 18 years for seditious conspiracy",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9873946905136108,
+        "URL": "https://ca.finance.yahoo.com/news/proud-boy-led-storming-us-171225596.html"
+    },
+    "78": {
+        "Ticker": "AAPL",
+        "Summary": "Have you tried going to Newsround?",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9915708303451538,
+        "URL": "https://www.barrons.com/articles/salesforce-stock-earnings-apple-microsoft-f9c89fe3"
+    },
+    "79": {
+        "Ticker": "AAPL",
+        "Summary": "Key risks include weak macroeconomic environment, longer replacement cycles, trade disruptions.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9986592531204224,
+        "URL": "https://markets.businessinsider.com/news/stocks/apple-stock-price-outlook-5-risks-september-iphone-15-event-2023-8"
+    },
+    "80": {
+        "Ticker": "AAPL",
+        "Summary": "All images are copyrighted.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9880996346473694,
+        "URL": "https://www.investors.com/news/technology/stocks-showing-improving-market-leadership-apple-earns-83-rs-rating/"
+    },
+    "81": {
+        "Ticker": "AAPL",
+        "Summary": "Apple set to achieve year-on-year growth, overtakes Android. Shipments seen falling 4.7% this year to lowest in a decade",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9960566759109497,
+        "URL": "https://9to5mac.com/2023/08/31/smartphone-market-worsening/"
+    },
+    "82": {
+        "Ticker": "AAPL",
+        "Summary": "Warren Buffett’s investment company could be worth $1 trillion.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.5695069432258606,
+        "URL": "https://www.fool.com/investing/2023/08/31/1-stock-apple-microsoft-amazon-nvidia-1-trillion/"
+    },
+    "83": {
+        "Ticker": "AAPL",
+        "Summary": "All photographs are copyrighted.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9776006937026978,
+        "URL": "https://www.financialexpress.com/business/industry-apple-samsung-say-no-to-laptops-as-india-market-too-small-3229118/"
+    },
+    "84": {
+        "Ticker": "AAPL",
+        "Summary": "BYD Electronic tops Hang Seng Tech Index in August. Shares set to face tougher competition from Chinese rivals",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.546652615070343,
+        "URL": "https://finance.yahoo.com/news/ev-apple-supplier-tops-china-023902026.html"
+    },
+    "85": {
+        "Ticker": "AAPL",
+        "Summary": "All images are copyrighted.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9880996346473694,
+        "URL": "https://www.google.com/search?q%3Dyahoo%2Bfinance%2BAAPL%26tbm%3Dnws%26pccc%3D1"
+    },
+    "86": {
+        "Ticker": "AAPL",
+        "Summary": "Two contributors think buying these Buffett-backed stocks would be a smart move.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.8831669688224792,
+        "URL": "https://www.fool.com/investing/2023/09/02/2-spectacular-warren-buffett-stocks-to-buy-in-sept/"
+    },
+    "87": {
+        "Ticker": "AAPL",
+        "Summary": "Apple releases new iPhone 7 in China on Friday. Analysts expect more AI-related events in September",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9897693395614624,
+        "URL": "https://finance.yahoo.com/news/heres-why-stocks-may-surprise-to-the-upside-in-september-140009459.html"
+    },
+    "88": {
+        "Ticker": "AAPL",
+        "Summary": "Apple, Samsung among firms to invest in IPO. British chip design firm is targeting a valuation between $50 billion and $55 billion",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.8771915435791016,
+        "URL": "https://wccftech.com/samsung-and-apple-invest-in-arm-ipo-claims-report/"
+    },
+    "89": {
+        "Ticker": "AMZN",
+        "Summary": "Victory Park seeking a buyer for Perch. Negotiations are at an early stage, people familiar say",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9564749002456665,
+        "URL": "https://finance.yahoo.com/news/apollo-tries-salvage-amazon-aggregator-012816944.html"
+    },
+    "90": {
+        "Ticker": "AMZN",
+        "Summary": "All photographs subject to copyright.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9676676392555237,
+        "URL": "https://www.newindianexpress.com/business/2023/sep/01/amazon-to-use-gen-ai-toolto-help-small-businesses-2610631.html"
+    },
+    "91": {
+        "Ticker": "AMZN",
+        "Summary": "U.S. Department of Defense website: www.dec.army.mil.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9682839512825012,
+        "URL": "https://www.financialexpress.com/business/brandwagon-d2c-brands-can-use-our-channel-to-serve-customers-amazon-india-3229339/"
+    },
+    "92": {
+        "Ticker": "AMZN",
+        "Summary": "All images are copyrighted.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9880996346473694,
+        "URL": "https://www.google.com/search?q%3Dyahoo%2Bfinance%2BAMZN%26tbm%3Dnws%26pccc%3D1"
+    },
+    "93": {
+        "Ticker": "AMZN",
+        "Summary": "Chris Rawson and Angelina Stanzione have published 29 books on Amazon. Rawson and Stanzione said they wanted more time to travel",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9872674345970154,
+        "URL": "https://www.businessinsider.com/how-to-sell-books-on-amazon-kdp-audible-ai-chatgpt-2023-9"
+    },
+    "94": {
+        "Ticker": "AMZN",
+        "Summary": "Find the best credit cards, loans, insurance and more in SELECT.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9378337860107422,
+        "URL": "https://www.cnbc.com/2023/08/31/shopify-stock-pops-after-it-strikes-buy-with-prime-deal-with-amazon.html"
+    },
+    "95": {
+        "Ticker": "AMZN",
+        "Summary": "All photographs are copyrighted.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9776006937026978,
+        "URL": "https://www.tipranks.com/news/article/5-top-growth-stocks-to-buy-now-according-to-analysts-september-2023"
+    },
+    "96": {
+        "Ticker": "AMZN",
+        "Summary": "I reiterate my neutral rating, as even the best news can be priced in at the wrong price.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9965247511863708,
+        "URL": "https://seekingalpha.com/article/4632531-shopify-soars-on-amazon-buy-with-prime-partnership-stock-should-be-down-not-up"
+    },
+    "97": {
+        "Ticker": "AMZN",
+        "Summary": "E-commerce giant signs memorandum with India Post to reach out artisans. Amazon to invest $12.7 billion in India by 2030: AWB",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.6487856507301331,
+        "URL": "https://www.thehindu.com/sci-tech/technology/amazon-working-on-a-generative-ai-to-help-small-businesses-in-india/article67255325.ece"
+    },
+    "98": {
+        "Ticker": "AMZN",
+        "Summary": "Check here for live updates from the World Economic Forum in Davos.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9331583380699158,
+        "URL": "https://m.economictimes.com/tech/newsletters/morning-dispatch/amazons-amit-agarwal-on-funding-india-investments-whos-2023s-model-startup-founder/articleshow/103261677.cms"
+    },
+    "99": {
+        "Ticker": "AMZN",
+        "Summary": "Benitago Group has filed for bankruptcy in the US.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9928035140037537,
+        "URL": "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/amazon-e-commerce-business-acquirer-benitago-files-for-bankruptcy/103306411"
+    },
+    "100": {
+        "Ticker": "TSLA",
+        "Summary": "Musk called for subsidies to be scrapped in 2021. Carmaker drops prices of the Model S and X after refreshed models",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9993553757667542,
+        "URL": "https://finance.yahoo.com/news/tesla-discounts-model-30-000-142300452.html"
+    },
+    "101": {
+        "Ticker": "TSLA",
+        "Summary": ".",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9668781757354736,
+        "URL": "https://www.thestreet.com/investing/stocks/elon-musk-approves-cathie-wood-bold-bull-thesis-for-tesla"
+    },
+    "102": {
+        "Ticker": "TSLA",
+        "Summary": "All images are copyrighted.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9880996346473694,
+        "URL": "https://www.google.com/search?q%3Dyahoo%2Bfinance%2BTSLA%26tbm%3Dnws%26pccc%3D1"
+    },
+    "103": {
+        "Ticker": "TSLA",
+        "Summary": "Wedbush rates Tesla a ‘Buy’ with a $350 share price target. China EV competition heats up, forcing Tesla to cut prices",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9933387637138367,
+        "URL": "https://finbold.com/tesla-stock-price-prediction-for-september-after-rallying-10-in-a-week/"
+    },
+    "104": {
+        "Ticker": "TSLA",
+        "Summary": "Find the best credit cards, loans, insurance and more in SELECT.",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9378337860107422,
+        "URL": "https://www.cnbc.com/2023/09/01/tesla-shares-close-down-5percent-after-price-cuts-model-3-refresh.html"
+    },
+    "105": {
+        "Ticker": "TSLA",
+        "Summary": "All images are copyrighted.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9880996346473694,
+        "URL": "https://www.investors.com/news/sp-500-tesla-leads-5-stocks-near-buy-points-after-labor-day/"
+    },
+    "106": {
+        "Ticker": "TSLA",
+        "Summary": "‘Project 42’ was to be a house for Elon Musk, Wall Street Journal says. Tesla has said it will cooperate with DOJ, SEC",
+        "Sentiment": "POSITIVE",
+        "Sentiment Score": 0.9817678928375244,
+        "URL": "https://electrek.co/2023/08/31/tesla-federal-investigation-company-resources-build-elon-musk-house/"
+    },
+    "107": {
+        "Ticker": "TSLA",
+        "Summary": "Report electric vehicle giant cut prices in China for second time in two weeks. Tesla just missed bull market threshold on Thursday",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9969196319580078,
+        "URL": "https://www.marketwatch.com/story/tesla-stock-drops-after-just-missing-bull-market-threshold-9954f0dd"
+    },
+    "108": {
+        "Ticker": "TSLA",
+        "Summary": "All photographs subject to copyright.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9676676392555237,
+        "URL": "https://cleantechnica.com/2023/09/02/evs-at-90-share-in-norway-tesla-model-y-best-seller/"
+    },
+    "109": {
+        "Ticker": "TSLA",
+        "Summary": "All photographs subject to copyright.",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9676676392555237,
+        "URL": "https://www.businessinsider.com/tesla-gives-model-3-makeover-cuts-full-self-driving-price-2023-9"
+    },
+    "110": {
+        "Ticker": "TSLA",
+        "Summary": "Have you tried going to Newsround?",
+        "Sentiment": "NEGATIVE",
+        "Sentiment Score": 0.9915708303451538,
+        "URL": "https://www.barrons.com/articles/tesla-model-3-china-website-price-daa69348"
+    }
+}
