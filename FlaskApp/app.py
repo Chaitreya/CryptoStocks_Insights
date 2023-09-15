@@ -9,7 +9,7 @@ from transformers import pipeline
 import torch
 
 app = Flask(__name__)
-run_with_ngrok(app)
+# run_with_ngrok(app)
 
 @app.route('/run',methods=['POST'])
 def runcode():
@@ -61,20 +61,31 @@ def runcode():
     cleaned_urls = {ticker:strip_unwanted_urls(raw_urls[ticker] , exclude_list) for ticker in monitored_tickers} 
 
     # 4.3. Search and Scrape Cleaned URLs
+    removeURLs = []
     print('Scraping news links.')
-    def scrape_and_process(URLs):
+    def scrape_and_process(URLs,removeURLs):
         ARTICLES = []
         for url in URLs:
             r = requests.get(url)
             soup = BeautifulSoup(r.text, 'html.parser')
             results = soup.find_all('p')
             text = [res.text for res in results]
-            words = ' '.join(text).split(' ')[:350]
+            words = ' '.join(text).split(' ')[:600]
             ARTICLE = ' '.join(words)
+            if(len(ARTICLE)<100):
+                removeURLs.append(url)
+                continue
+            # print(ARTICLE)
+            # print(".\n.\n.\n.\n.\n.\n")
             ARTICLES.append(ARTICLE)
         return ARTICLES
-    articles = {ticker:scrape_and_process(cleaned_urls[ticker]) for ticker in monitored_tickers} 
+    articles = {ticker:scrape_and_process(cleaned_urls[ticker],removeURLs) for ticker in monitored_tickers} 
 
+    for ticker in monitored_tickers:
+        for removeurl in removeURLs:
+            for url in cleaned_urls[ticker]:
+                if(url == removeurl):
+                    cleaned_urls[ticker].remove(url)
 
     # 4.4. Summarise all Articles
     print('Summarizing articles.')
@@ -82,8 +93,10 @@ def runcode():
         summaries = []
         for article in articles:
             input_ids = tokenizer.encode(article, return_tensors="pt" ,max_length=512, truncation=True).to(device)
-            output = model.generate(input_ids, max_length=55, num_beams=5, early_stopping=True)
+            output = model.generate(input_ids, max_length=100, num_beams=5, early_stopping=True)
             summary = tokenizer.decode(output[0], skip_special_tokens=True)
+            # print(summary)
+            # print(".\n.\n.\n.\n.\n.\n")
             summaries.append(summary)
         return summaries
 
@@ -98,8 +111,8 @@ def runcode():
     print('Exporting results')
 
     def create_output_dict(summaries, scores, urls):
-        output = {}
-        count = 1  # Initialize the numeric key
+        output = []
+        # count = 1  # Initialize the numeric key
         for ticker in monitored_tickers:
             for counter in range(len(summaries[ticker])):
                 output_this = {
@@ -109,8 +122,8 @@ def runcode():
                     'Sentiment Score': scores[ticker][counter]['score'],
                     'URL': urls[ticker][counter]
                 }
-                output[count] = output_this  # Use numeric key
-                count += 1  # Increment the numeric key
+                output.append(output_this)  # Use numeric key
+                # count += 1  # Increment the numeric key
         return output
 
     final_output = create_output_dict(summaries, scores, cleaned_urls)
