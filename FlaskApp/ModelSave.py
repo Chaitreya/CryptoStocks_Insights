@@ -1,10 +1,19 @@
 from transformers import PegasusForConditionalGeneration
 
-# Model name or path
+# # # Model name or path
 model_name = "human-centered-summarization/financial-summarization-pegasus"
 
 # Load the model
 model = PegasusForConditionalGeneration.from_pretrained(model_name)
 
 # Save the model to a local directory
-model.save_pretrained("Model")
+model.save_pretrained("Model\Summarization Model")
+
+
+from transformers import pipeline
+
+# Load the sentiment analysis pipeline with the model
+sentiment = pipeline("sentiment-analysis", model="distilbert-base-uncased-finetuned-sst-2-english")
+
+# Save the model to a local directory
+sentiment.save_pretrained("Model\Sentiment Model")

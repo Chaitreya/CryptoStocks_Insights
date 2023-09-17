@@ -44,8 +44,6 @@ const registerUser = async (req,res) => {
             "password": hashPwd
         });
 
-        console.log(result);
-
         return res.status(201).json({"Message": `New user ${username} created `});
 
 

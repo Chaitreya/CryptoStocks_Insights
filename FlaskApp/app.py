@@ -28,7 +28,7 @@ def runcode():
 
     # 2. Setup Model
     model_name = "human-centered-summarization/financial-summarization-pegasus"
-    model_path = "Model"
+    model_path = "Model\Summarization Model"
     tokenizer = PegasusTokenizer.from_pretrained(model_name)
     model = PegasusForConditionalGeneration.from_pretrained(model_path).to(device)
     
@@ -104,7 +104,8 @@ def runcode():
 
     # 5. Adding Sentiment Analysis
     print('Calculating sentiment.')
-    sentiment = pipeline("sentiment-analysis",model="distilbert-base-uncased-finetuned-sst-2-english")
+    sentiment_model_path = "Model\Sentiment Model"
+    sentiment = pipeline("sentiment-analysis",model=sentiment_model_path)
     scores = {ticker:sentiment(summaries[ticker]) for ticker in monitored_tickers}
 
     # # 6. Exporting Results
