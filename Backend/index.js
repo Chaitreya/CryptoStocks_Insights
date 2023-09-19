@@ -9,7 +9,7 @@ const verifyJWT = require('./middleware/verifyJWT');
 const cookieParser = require('cookie-parser')
 const refreshToken = require('./routes/refreshToken.route');
 const logout = require('./routes/logout.route');
-const articleData = require('./routes/getArticleData.route');
+const articleData = require('./routes/handleArticleData.route');
 const PORT = process.env.PORT || 3000
 
 const app = express();
