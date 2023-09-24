@@ -10,11 +10,17 @@ const cookieParser = require('cookie-parser')
 const refreshToken = require('./routes/refreshToken.route');
 const logout = require('./routes/logout.route');
 const articleData = require('./routes/handleArticleData.route');
+const getAllArticleData = require('./routes/getAllArticleData.route');
 const PORT = process.env.PORT || 3000
 
 const app = express();
 
-app.use(cors());
+const corsOptions = {
+    origin: 'http://127.0.0.1:5173', // Replace with your frontend origin
+    credentials: true, // Enable credentials
+  };
+
+app.use(cors(corsOptions));
 app.use(express.urlencoded({extended:false}));
 app.use(express.json());
 app.use(cookieParser());
@@ -28,12 +34,7 @@ app.use('/api/v1',logout);
 
 app.use(verifyJWT);
 app.use('/api/v1',articleData);
-
-
-app.get('/', (req, res) => {
-    res.send('Hello World!')
-})
-
+app.use('/api/v1',getAllArticleData);
 
 mongoose.connection.once('open', ()=> {
     console.log('Connected to MongoDB');

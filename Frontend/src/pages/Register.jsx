@@ -68,7 +68,12 @@ function Register() {
             username: username,
             password: password
         }
-        await axios.post(REGISTER_URL, data)
+        await axios.post(REGISTER_URL, 
+            data,
+            {
+                headers: { 'Content-Type': 'application/json' },
+                withCredentials: true
+            })
             .then(() => {
                 setSuccess(true);
                 setErrMsg('');
