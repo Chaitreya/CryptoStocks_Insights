@@ -16,8 +16,9 @@ const PORT = process.env.PORT || 3000
 const app = express();
 
 const corsOptions = {
-    origin: 'http://127.0.0.1:5173', // Replace with your frontend origin
-    credentials: true, // Enable credentials
+    origin: 'http://localhost:3002', // Replace with your frontend origin
+    credentials: true, // Enable credentials,
+    allowedHeaders: ['Content-Type', 'Authorization', 'x-csrf-token']
   };
 
 app.use(cors(corsOptions));

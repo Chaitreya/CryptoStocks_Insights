@@ -1,6 +1,6 @@
 import { NavLink } from "react-router-dom";
 
-function Navbar(){
+function PublicNavbar(){
     return(
         <nav className="flex justify-between">
             <div className="">
@@ -16,4 +16,4 @@ function Navbar(){
     )
 }
 
-export default Navbar;
+export default PublicNavbar;

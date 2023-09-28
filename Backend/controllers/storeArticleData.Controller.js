@@ -34,7 +34,7 @@ const handleArticleData = async (req,res) => {
                 })
             });
 
-            return res.json({Message: `Data saved in database for user ${username}`});
+            return res.json(data);
         }
     )
     
