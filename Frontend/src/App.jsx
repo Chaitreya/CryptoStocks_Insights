@@ -15,7 +15,7 @@ function App() {
   const { auth } = useAuth();
 
   return (
-    <div className='m-4'>
+    <div className=''>
       {auth?.user ?
         (<UserNavbar />) :
         (<PublicNavbar />)

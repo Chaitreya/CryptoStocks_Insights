@@ -2,15 +2,15 @@ import { NavLink } from "react-router-dom";
 
 function PublicNavbar(){
     return(
-        <nav className="flex justify-between">
+        <nav className="flex justify-between bg-slate-800 text-white p-4">
             <div className="">
-                <h1 className="">CryptoStock Insights</h1>
+                <h1 className="font-bold text-xl">CryptoStock Insights</h1>
             </div>
             <div className="">
-                <NavLink to='/' className='p-2'>Home</NavLink>
-                <NavLink to='/about' className='p-2'>About</NavLink>
-                <NavLink to='/register' className='p-2'>Register</NavLink>
-                <NavLink to='/login' className='p-2'>Login</NavLink>
+                <NavLink to='/' className='py-2 px-4 mx-2 hover:bg-white hover:text-slate-900 rounded-lg text-center duration-100 font-semibold'>Home</NavLink>
+                <NavLink to='/about' className='py-2 px-4 mx-2 hover:bg-white hover:text-slate-900 rounded-lg text-center duration-100 font-semibold'>About</NavLink>
+                <NavLink to='/register' className='py-2 px-4 mx-2 hover:bg-white hover:text-slate-900 rounded-lg text-center duration-100 font-semibold'>Register</NavLink>
+                <NavLink to='/login' className='py-2 px-4 mx-2 hover:bg-red-600 hover:text-white text-slate-900 rounded-lg text-center duration-100 bg-white font-semibold'>Login</NavLink>
             </div>
         </nav>
     )

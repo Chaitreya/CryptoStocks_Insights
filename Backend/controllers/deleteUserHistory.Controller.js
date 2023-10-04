@@ -1,7 +1,7 @@
 const ArticleData = require('../models/ArticleData');
 const jwt = require('jsonwebtoken');
 
-const getUserHistory = async (req,res) => {
+const deleteUserHistory = async (req,res) => {
     const authHeader = req.headers.authorization || req.headers.Authorization;
     const token = authHeader.split(' ')[1];
     jwt.verify(
@@ -12,10 +12,10 @@ const getUserHistory = async (req,res) => {
                 return res.sendStatus(403);
             }
             const username = decoded.username;
-            const data = await ArticleData.find({username: username}).sort({ createdAt: 'desc' });;
-            res.json(data);
+            await ArticleData.deleteMany({username: username}).sort({ createdAt: 'desc' });;
+            res.json(`History Deleted of ${username}`);
         }
     )
 }
 
-module.exports = getUserHistory;
+module.exports = deleteUserHistory;
