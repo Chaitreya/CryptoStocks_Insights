@@ -10,12 +10,13 @@ import RequireAuth from './components/RequireAuth';
 import Logout from './components/Logout';
 import  useAuth  from './hooks/useAuth';
 
+
 function App() {
 
   const { auth } = useAuth();
 
   return (
-    <div className=''>
+    <div className="bg-scroll bg-[url('./assets/bgDoodle175.png')] bg-repeat w-full h-screen bg-opacity-100" >
       {auth?.user ?
         (<UserNavbar />) :
         (<PublicNavbar />)
