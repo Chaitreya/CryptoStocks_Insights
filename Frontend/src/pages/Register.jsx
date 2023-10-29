@@ -241,7 +241,7 @@ function Register() {
                                     Must match the first password input field.
                                 </div>
                             </p>
-                            <div className=''>
+                            <div className='m-2'>
                                 <button disabled={!firstname || !lastname || !validUsername || !validPwd || !validMatch ? true : false} className='p-2 px-20 bg-violet-950 text-white rounded-lg font-semibold border-2 border-violet-950 text-center hover:bg-white hover:text-violet-950 duration-150 w-full'>SignUp</button>
                             </div>
                         </form>
