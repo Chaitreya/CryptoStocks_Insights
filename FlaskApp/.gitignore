@@ -1,4 +1,5 @@
 /myEnv
 /Model/Summarization Model/pytorch_model.bin
 /Model/Sentiment Model/pytorch_model.bin
+/Model/Financial Sentiment Model/pytorch_model.bin
 /__pycache__
